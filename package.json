@@ -1,0 +1,12 @@
+{
+  "name": "dra-ardala-ariane-site",
+  "version": "1.0.0",
+  "description": "Site institucional premium da Dra. Árdala Ariane — Cirurgia Plástica Fortaleza.",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "python3 -m http.server 8080"
+  },
+  "keywords": ["cirurgia-plastica", "fortaleza", "dra-ardala-ariane"],
+  "author": "Dra. Árdala Ariane",
+  "license": "UNLICENSED"
+}
